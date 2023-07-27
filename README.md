@@ -1,3 +1,5 @@
+## An email application written in java that shows the basic information of the employee and provides a random password to him/her.
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
