@@ -82,5 +82,6 @@ public class eMail {
         return "Display Name: " + firstName + " " + lastName + " " +
                 "\nCOMPANY NAME: " + email +
                 "\nMAILBOX CAPACITY: " + mailBoxCapacity + " mb";
+
     }
 }
